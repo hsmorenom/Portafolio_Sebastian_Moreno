@@ -1,24 +1,31 @@
 import './style.css'
 
-const loadComponent = async (path) => {
-  const res = await fetch(path)
-  return res.text()
-}
+// Importamos los HTML como strings planos usando el sufijo ?raw
+import header from '/src/structure/header.html?raw'
+import hero from '/src/structure/hero.html?raw'
+import about from '/src/components/about.html?raw'
+import education from '/src/components/education.html?raw'
+import skills from '/src/components/skills.html?raw'
+import projects from '/src/components/projects.html?raw'
+import contact from '/src/components/contact.html?raw'
+import footer from '/src/structure/footer.html?raw'
 
-const renderApp = async (path) => {
+const renderApp = () => {
   const app = document.getElementById('app')
 
+  // Ya no necesitas fetch ni async/await para los componentes
   app.innerHTML = `
-  ${await loadComponent('/src/structure/header.html')}
-  ${await loadComponent('/src/structure/hero.html')}
-  ${await loadComponent('/src/components/about.html')}
-  ${await loadComponent('/src/components/education.html')}
-  ${await loadComponent('/src/components/skills.html')}
-  ${await loadComponent('/src/components/projects.html')}
-  ${await loadComponent('/src/components/contact.html')}
-  ${await loadComponent('/src/structure/footer.html')}
-`
+    ${header}
+    ${hero}
+    ${about}
+    ${education}
+    ${skills}
+    ${projects}
+    ${contact}
+    ${footer}
+  `
 }
+
 renderApp()
 
 document.addEventListener('click', (e) => {
