@@ -9,6 +9,7 @@ import skills from '/src/components/skills.html?raw'
 import projects from '/src/components/projects.html?raw'
 import contact from '/src/components/contact.html?raw'
 import footer from '/src/structure/footer.html?raw'
+import { translations } from './i18n/translations'
 
 const renderApp = () => {
   const app = document.getElementById('app')
@@ -41,5 +42,28 @@ document.addEventListener('click', (e) => {
     mobileMenu.classList.add('hidden')
   }
 })
+
+let currentLang = 'es'
+
+const translatePage = () => {
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const key = el.dataset.i18n
+    const keys = key.split('.')
+
+    let text = translations[currentLang]
+    keys.forEach(k => text = text[k])
+
+    el.textContent = text
+  })
+}
+
+// botón
+window.toggleLanguage = () => {
+  currentLang = currentLang === 'es' ? 'en' : 'es'
+  translatePage()
+}
+
+// al cargar
+translatePage()
 
 
