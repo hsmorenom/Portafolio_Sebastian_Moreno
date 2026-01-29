@@ -32,6 +32,17 @@ export const translations = {
             adsoList2: "Backend con PHP (PDO) y consumo de APIs",
             adsoList3: "Modelado de bases de datos y lógica de negocio",
             adsoList4: "Desarrollo de proyectos aplicados",
+            civil: "Ingeniería Civil",
+            period2: " Universidad Católica de Colombia · 2015 — 2020",
+            description3: `Formación profesional que fortaleció el pensamiento analítico, la resolución de problemas y la gestión de proyectos, habilidades que hoy aplico directamente al desarrollo de software.`,
+            oracle: "Oracle Next Education (ONE) – Alura Latam",
+            period3: "2024-2025",
+            description4: "Programa de formación en programación orientada a objetos y desarrollo backend.",
+            oracleList1: "Fundamentos de Java",
+            oracleList2: "Introducción a Spring Boot",
+            oracleList3: "Buenas prácticas de desarrollo",
+            oracleDescription: "Nivel básico–intermedio, con enfoque formativo."
+
         },
         skills: {
 
@@ -76,6 +87,16 @@ export const translations = {
             adsoList2: "Backend with PHP (PDO) and API consumption",
             adsoList3: "Database modeling and business logic",
             adsoList4: "Development of applied projects",
+            civil: "Civil Enginnering",
+            period2: " Universidad Católica de Colombia · 2015 — 2020",
+            description3: `Professional training that strengthened analytical thinking, problem solving, and project management, skills that I now apply directly to software development.`,
+            oracle: "Oracle Next Education (ONE) – Alura Latam",
+            period3: "2024-2025",
+            description4: "Training program in object-oriented programming and backend development",
+            oracleList1: "Java Fundamentals",
+            oracleList2: "Introduction to Spring Boot",
+            oracleList3: "Good development practices",
+            oracleDescription: "Basic–intermediate level, with a focus on training.",
 
         },
         skills: {
