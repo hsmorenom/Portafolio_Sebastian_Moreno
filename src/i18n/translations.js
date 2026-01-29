@@ -45,9 +45,45 @@ export const translations = {
 
         },
         skills: {
+            title: "Habilidades",
+            subtitle1: "Desarrollo de Software",
+            software1: "HTML",
+            software2: "CSS",
+            software3: "TypeScript",
+            software4: "JavaScript",
+            software5: "Angular",
+            software6: "PHP",
+            software7: "MySQL",
+            subtitle2: " Conocimientos adicionales",
+            knowledge1: "Java POO",
+            knowledge2: `Spring Boot (Fundamentos)`,
+            subtitle3: "Herramientas y tecnologías",
+            tools1: "Git",
+            tools2: "GitHub",
+            tools3: "Tailwind CSS",
+            tools4: "IntelliJ IDEA",
+            tools5: "Vite",
+            tools6: "VS Code",
+            subtitle4: "Enfoque de trabajo",
+            approach1: "• Análisis y resolución estructurada de problemas",
+            approach2: "• Desarrollo orientado a soluciones funcionales",
+            approach3: "• Organización, documentación y claridad en el código",
+            approach4: "• Capacidad de adaptación a distintos contextos e industrias"
 
         },
         projects: {
+            title: "Proyectos",
+            description: `Proyectos desarrollados como parte de mi formación y práctica en desarrollo de software,enfocados en resolver necesidades reales.`,
+            project1: "Retofit31",
+            project1Description1: `Plataforma web desarrollada en colaboración, enfocada en la gestión integral de usuarios para el entrenamiento deportivo.`,
+            project1Description2: `Participé activamente en el desarrollo del frontend con Angular, integración con backend en PHP y estructuración de módulos y roles.`,
+            retofit31Tech1: "Angular",
+            retofit31Tech2: "TypeScript",
+            retofit31Tech3: "Tailwind CSS",
+            retofit31Tech4: "PHP (PDO)",
+            retofit31Tech5: "MySQL",
+            linkRetofit31: " Ver repositorio →"
+
 
         },
         contact: {
@@ -100,9 +136,46 @@ export const translations = {
 
         },
         skills: {
+            title: "Skills",
+            subtitle1: "Software Development",
+            software1: "HTML",
+            software2: "CSS",
+            software3: "TypeScript",
+            software4: "JavaScript",
+            software5: "Angular",
+            software6: "PHP",
+            software7: "MySQL",
+            subtitle2: " Additional knowledge",
+            knowledge1: "Java OOP",
+            knowledge2: `Spring Boot (Fundamentals)`,
+            subtitle3: "Tools and technologies",
+            tools1: "Git",
+            tools2: "GitHub",
+            tools3: "Tailwind CSS",
+            tools4: "IntelliJ IDEA",
+            tools5: "Vite",
+            tools6: "VS Code",
+            subtitle4: "Work approach",
+            approach1: "• Structured problem analysis and resolution",
+            approach2: "• Development focused on functional solutions",
+            approach3: "• Organization, documentation, and clarity in the code",
+            approach4: "• Ability to adapt to different contexts and industries"
 
         },
         projects: {
+            title: "Projects",
+            description: `Projects developed as part of my training and practice in software development, focused on solving real needs.`,
+            project1: "Retofit31",
+            project1Description1: `Web platform developed in collaboration, focused on comprehensive user management for sports training.`,
+            project1Description2: `I actively participated in frontend development with Angular, backend integration in PHP, and structuring modules and roles.`,
+            retofit31Tech1: "Angular",
+            retofit31Tech2: "TypeScript",
+            retofit31Tech3: "Tailwind CSS",
+            retofit31Tech4: "PHP (PDO)",
+            retofit31Tech5: "MySQL",
+            linkRetofit31: " View repository →"
+
+
 
         },
         contact: {
