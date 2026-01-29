@@ -11,7 +11,7 @@ export const translations = {
         hero: {
             position1: " Ingeniero Civil &",
             position2: "Desarrollador de Software",
-            description: `Diseño y desarrollo soluciones técnicas combinando análisis estructural, lógica y programación. Abierto a proyectos de ingeniería, tecnología y cualquier industria que requiera pensamiento crítico.`,
+            description: `Diseño y desarrollo de soluciones técnicas que combinan análisis estructural, lógica y programación. Abierto a proyectos de ingeniería, tecnología y cualquier industria que requiera pensamiento crítico.`,
             projects: "Ver proyectos",
             contact: "Contacto"
         },
