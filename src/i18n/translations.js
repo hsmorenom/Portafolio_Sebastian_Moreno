@@ -84,10 +84,22 @@ export const translations = {
             retofit31Tech5: "MySQL",
             linkRetofit31: " Ver repositorio →"
 
-
         },
         contact: {
-
+            title: "Contacto",
+            description: `¿Tienes un proyecto, una oportunidad de prácticas o simplemente quieres conversar?
+            Estoy abierto a colaborar y aprender en distintos contextos.`,
+            subtitle1: "Email",
+            p1: "sebas03272009@gmail.com",
+            subtitle2: "Github",
+            p2: "github.com/hsmorenom",
+            subtitle3: "Linkedin",
+            p3: "linkedin.com/in/harol-sebasti%C3%A1n-moreno-m/",
+            download_CV: "Descargar CV →"
+        },
+        footer: {
+            description: "Ingeniero Civil · Desarrollador de Software",
+            rights: `© 2026 Sebastian Moreno. Todos los derechos reservados.`
         }
     },
     en: {
@@ -174,12 +186,22 @@ export const translations = {
             retofit31Tech4: "PHP (PDO)",
             retofit31Tech5: "MySQL",
             linkRetofit31: " View repository →"
-
-
-
         },
         contact: {
+            title: "Contact",
+            description: `Do you have a project, an internship opportunity, or just want to chat? I am open to collaborating and learning in different contexts.`,
+            subtitle1: "Email",
+            p1: "sebas03272009@gmail.com",
+            subtitle2: "Github",
+            p2: "github.com/hsmorenom",
+            subtitle3: "Linkedin",
+            p3: "linkedin.com/in/harol-sebasti%C3%A1n-moreno-m/",
+            download_CV: "Download CV →"
 
+        },
+        footer: {
+            description: "Civil Engineer · Software Developer",
+            rights: `© 2026 Sebastian Moreno. All rights reserved.`
         }
     }
 }
