@@ -37,11 +37,6 @@
             </button>
         </ul>
 
-        <a href="/documents/Hoja de Vida ADSO Sebastian_Moreno.pdf" target="_blank"
-            class="hidden md:hidden px-4 py-2 text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-500 rounded-lg transition cursor-pointer">
-            Descargar CV
-        </a>
-
         <!-- Mobile button -->
         <button onclick="toggleLanguage()"
             class="border px-3 py-1 rounded text-sm hover:bg-white hover:text-black transition cursor-pointer  md:hidden">
@@ -62,7 +57,11 @@
             <li><a href="#skills" class="hover:text-white" data-i18n="nav.skills">Habilidades</a></li>
             <li><a href="#projects" class="hover:text-white" data-i18n="nav.projects">Proyectos</a></li>
             <li><a href="#contact" class="hover:text-white" data-i18n="nav.contact">Contacto</a></li>
-
+            <li class="pt-4">
+                <a href="/documents/Hoja de Vida ADSO Sebastian_Moreno.pdf" target="_blank"
+                    class="block text-center px-4 py-2 text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-500 rounded-lg transition"
+                    data-i18n="nav.download_CV"></a>
+            </li>
         </ul>
     </div>
 </header>
