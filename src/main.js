@@ -66,4 +66,32 @@ window.toggleLanguage = () => {
 // al cargar
 translatePage()
 
+// ---------- THEME ----------
+// const root = document.documentElement
+
+// const setTheme = (theme) => {
+//   root.classList.toggle('dark', theme === 'dark')
+//   localStorage.setItem('theme', theme)
+//   updateIcon()
+// }
+
+// const updateIcon = () => {
+//   document.querySelectorAll('#theme-toggle').forEach(btn => {
+//     btn.textContent = root.classList.contains('dark') ? '☀️' : '🌙'
+//   })
+// }
+
+
+// // Eventos
+// document.addEventListener('click', (e) => {
+//   if (e.target.closest('#theme-toggle') ||
+//       e.target.closest('#theme-toggle-mobile')) {
+//     setTheme(root.classList.contains('dark') ? 'light' : 'dark')
+//   }
+// })
+
+// // Init
+// setTheme(localStorage.getItem('theme') || 'dark')
+
+
 
