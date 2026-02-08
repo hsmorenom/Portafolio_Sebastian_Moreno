@@ -82,7 +82,16 @@ export const translations = {
             retofit31Tech3: "Tailwind CSS",
             retofit31Tech4: "PHP (PDO)",
             retofit31Tech5: "MySQL",
-            linkRetofit31: " Ver repositorio →"
+            linkRetofit31: " Ver repositorio →",
+            project2: "Climate Microservice",
+            project2Description1: `Microservicio REST desarrollado con Spring Boot que consume datos abiertos del IDEAM para analizar variables climáticas por municipio.`,
+            project2Description2: `Integra datos de precipitación y temperatura, calcula evapotranspiración y expone un endpoint con interpretación técnica de los resultados.`,
+            climateTech1: "Java",
+            climateTech2: "Spring Boot",
+            climateTech3: "REST API",
+            climateTech4: "IDEAM Open Data",
+            climateTech5: "Postman / Insomnia",
+            linkClimate: "Ver repositorio →"
 
         },
         contact: {
@@ -185,7 +194,17 @@ export const translations = {
             retofit31Tech3: "Tailwind CSS",
             retofit31Tech4: "PHP (PDO)",
             retofit31Tech5: "MySQL",
-            linkRetofit31: " View repository →"
+            linkRetofit31: " View repository →",
+            project2: "Climate Microservice",
+            project2Description1: `REST microservice built with Spring Boot that consumes open data from IDEAM to analyze climate variables by municipality.`,
+            project2Description2: `It integrates precipitation and temperature data, calculates evapotranspiration, and exposes an endpoint with technical interpretation of the results.`,
+            climateTech1: "Java",
+            climateTech2: "Spring Boot",
+            climateTech3: "REST API",
+            climateTech4: "IDEAM Open Data",
+            climateTech5: "Postman / Insomnia",
+            linkClimate: "View repository →"
+
         },
         contact: {
             title: "Contact",
