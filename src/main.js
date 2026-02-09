@@ -61,7 +61,8 @@ const translatePage = () => {
   const cvMobile = document.getElementById("cv_link_mobile")
 
   if (cvDesktop) {
-    cvDesktop.href = translations[currentLang].nav.link_CV
+    cvDesktop.href = translations[currentLang].nav.link_CV;
+
   }
 
   if (cvMobile) {

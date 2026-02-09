@@ -105,7 +105,8 @@ export const translations = {
             p2: "github.com/hsmorenom",
             subtitle3: "Linkedin",
             p3: "linkedin.com/in/harol-sebasti%C3%A1n-moreno-m/",
-            download_CV: "Descargar CV →"
+            download_CV: "Descargar CV →",
+            link_CV:"/documents/Hoja de Vida ADSO Sebastian_Moreno.pdf"
         },
         footer: {
             description: "Ingeniero Civil · Desarrollador de Software",
@@ -217,7 +218,8 @@ export const translations = {
             p2: "github.com/hsmorenom",
             subtitle3: "Linkedin",
             p3: "linkedin.com/in/harol-sebasti%C3%A1n-moreno-m/",
-            download_CV: "Download CV →"
+            download_CV: "Download CV →",
+            link_CV:"/documents/Hoja de Vida ADSO Sebastian_Moreno.pdf"
 
         },
         footer: {
