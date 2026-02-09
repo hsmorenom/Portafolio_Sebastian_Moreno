@@ -58,16 +58,16 @@ const translatePage = () => {
 
   // 👉 NUEVO: cambiar el archivo del CV según idioma
   const cvDesktop = document.getElementById("cv_link")
-  const cvDesktop2 = document.getElementById("cv_link_2")
+  // const cvDesktop2 = document.getElementById("cv_link_2")
   const cvMobile = document.getElementById("cv_link_mobile")
 
   if (cvDesktop) {
     cvDesktop.href = translations[currentLang].nav.link_CV
   }
 
-  if (cvDesktop2) {
-    cvDesktop2.href = translations[currentLang].contact.link_CV_2
-  }
+  // if (cvDesktop2) {
+  //   cvDesktop2.href = translations[currentLang].contact.link_CV_2
+  // }
 
   if (cvMobile) {
     cvMobile.href = translations[currentLang].nav.link_CV
