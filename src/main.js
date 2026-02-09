@@ -55,6 +55,19 @@ const translatePage = () => {
 
     el.textContent = text
   })
+
+  // 👉 NUEVO: cambiar el archivo del CV según idioma
+  const cvDesktop = document.getElementById("cv_link")
+  const cvMobile = document.getElementById("cv_link_mobile")
+
+  if (cvDesktop) {
+    cvDesktop.href = translations[currentLang].nav.link_CV
+  }
+
+  if (cvMobile) {
+    cvMobile.href = translations[currentLang].nav.link_CV
+  }
+
 }
 
 // botón

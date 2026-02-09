@@ -6,7 +6,8 @@ export const translations = {
             skills: "Habilidades",
             projects: "Proyectos",
             contact: "Contacto",
-            download_CV: "Descargar CV"
+            download_CV: "Descargar CV",
+            link_CV:"/documents/Hoja de Vida ADSO Sebastian_Moreno.pdf"
         },
         hero: {
             position1: " Ingeniero Civil &",
@@ -118,7 +119,8 @@ export const translations = {
             skills: "Skills",
             projects: "Projects",
             contact: "Contact",
-            download_CV: "Download CV"
+            download_CV: "Download CV",
+            link_CV:"/documents/Sebastian_Moreno CV English.pdf"
         },
         hero: {
             position1: " Civil Engineer &",
