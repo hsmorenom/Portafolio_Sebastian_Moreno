@@ -18,9 +18,9 @@ export const translations = {
         },
         about: {
             title: "Sobre mí",
-            p1: `Soy ingeniero civil y tecnólogo en Análisis y Desarrollo de Software. Mi formación me permite abordar problemas desde una perspectiva estructurada, combinando análisis técnico, lógica y desarrollo de soluciones digitales.`,
-            p2: `He participado en proyectos donde la organización, el pensamiento crítico y la tecnología son fundamentales, y me interesa trabajar en iniciativas de cualquier industria que requieran soluciones bien diseñadas y funcionales.`,
-            p3: `Actualmente curso el programa de Análisis y Desarrollo de Software (ADSO) y me encuentro en búsqueda de prácticas profesionales, con disponibilidad para iniciar a partir de febrero.`
+            p1: `Soy ingeniero civil y tecnólogo en Análisis y Desarrollo de Software del Servicio Nacional de Aprendizaje (SENA). Mi formación me permite abordar problemas desde una perspectiva estructurada, combinando análisis técnico, pensamiento lógico y desarrollo de soluciones digitales escalables.`,
+            p2: `engo experiencia en el desarrollo de aplicaciones web utilizando Angular y PHP (PDO), implementando arquitecturas basadas en APIs REST, manejo de bases de datos relacionales y control de versiones. He participado en proyectos donde la organización, la trazabilidad y la calidad del software son fundamentales.`,
+            p3: `Actualmente me encuentro en etapa práctica, con disponibilidad para vinculación laboral en proyectos de desarrollo de software, tanto en modalidad presencial como remota.`
         },
         education: {
             title: "Formación",
@@ -132,9 +132,9 @@ export const translations = {
         },
         about: {
             title: "About me",
-            p1: `I am a civil engineer and a Software Analysis and Development technologist. My background allows me to approach problems from a structured perspective, combining technical analysis, logic, and digital solution development.`,
-            p2: `I have participated in projects where organization, critical thinking, and technology are essential, and I am interested in working on initiatives in any industry that require well-designed and functional solutions`,
-            p3: `I am currently enrolled in the Software Analysis and Development (ADSO) program and am actively seeking a professional internship, available to start in February.`
+            p1: `I am a civil engineer and technologist in Software Analysis and Development at the National Learning Service (SENA). My training allows me to approach problems from a structured perspective, combining technical analysis, logical thinking, and the development of scalable digital solutions.`,
+            p2: `I have experience in developing web applications using Angular and PHP (PDO), implementing architectures based on REST APIs, managing relational databases, and version control. I have participated in projects where organization, traceability, and software quality are essential.`,
+            p3: `I am currently in the practical stage, available for employment in software development projects, both in person and remotely.`
         },
         education: {
             title: "Education",
