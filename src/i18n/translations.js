@@ -19,7 +19,7 @@ export const translations = {
         about: {
             title: "Sobre mí",
             p1: `Soy ingeniero civil y tecnólogo en Análisis y Desarrollo de Software del Servicio Nacional de Aprendizaje (SENA). Mi formación me permite abordar problemas desde una perspectiva estructurada, combinando análisis técnico, pensamiento lógico y desarrollo de soluciones digitales escalables.`,
-            p2: `engo experiencia en el desarrollo de aplicaciones web utilizando Angular y PHP (PDO), implementando arquitecturas basadas en APIs REST, manejo de bases de datos relacionales y control de versiones. He participado en proyectos donde la organización, la trazabilidad y la calidad del software son fundamentales.`,
+            p2: `Tengo experiencia en el desarrollo de aplicaciones web utilizando Angular y PHP (PDO), implementando arquitecturas basadas en APIs REST, manejo de bases de datos relacionales y control de versiones. He participado en proyectos donde la organización, la trazabilidad y la calidad del software son fundamentales.`,
             p3: `Actualmente me encuentro en etapa práctica, con disponibilidad para vinculación laboral en proyectos de desarrollo de software, tanto en modalidad presencial como remota.`
         },
         education: {
