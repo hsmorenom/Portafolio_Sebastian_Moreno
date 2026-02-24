@@ -132,15 +132,15 @@ export const translations = {
         },
         about: {
             title: "About me",
-            p1: `I am a civil engineer and technologist in Software Analysis and Development at the National Learning Service (SENA). My training allows me to approach problems from a structured perspective, combining technical analysis, logical thinking, and the development of scalable digital solutions.`,
+            p1: `I am a civil engineer and i have an associate degree in Software Analysis and Development at the National Learning Service (SENA). My training allows me to approach problems from a structured perspective, combining technical analysis, logical thinking, and the development of scalable digital solutions.`,
             p2: `I have experience in developing web applications using Angular and PHP (PDO), implementing architectures based on REST APIs, managing relational databases, and version control. I have participated in projects where organization, traceability, and software quality are essential.`,
             p3: `I am currently in the practical stage, available for employment in software development projects, both in person and remotely.`
         },
         education: {
             title: "Education",
             description: "My academic and technical training, with a practical focus on software development",
-            adso: "Software Analysis and Development Technologist (ADSO)",
-            period1: "SENA · 2024 — 2026",
+            adso: "Associate degree in Software Analysis and Development (ADSO)",
+            period1: "National Training Service - SENA · 2024 - 2026",
             description1: `Training focused on developing web applications under client-server architecture and relational database management. Application of best practices in development, project structuring, and software testing.`,
             description2: `Practical stage in progress.`,
             adsoList1: "Angular, TypeScript, HTML, CSS and Tailwind",
@@ -148,7 +148,7 @@ export const translations = {
             adsoList3: "Database modeling and business logic",
             adsoList4: "Development of applied projects",
             civil: "Civil Enginnering",
-            period2: " Universidad Católica de Colombia · 2015 — 2020",
+            period2: " Catholic University of Colombia · 2015 — 2020",
             description3: `Professional training that strengthened analytical thinking, problem solving, and project management, skills that I now apply directly to software development.`,
             oracle: "Oracle Next Education (ONE) – Alura Latam",
             period3: "2024-2025",
