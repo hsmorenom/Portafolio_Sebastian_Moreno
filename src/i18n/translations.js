@@ -7,7 +7,7 @@ export const translations = {
             projects: "Proyectos",
             contact: "Contacto",
             download_CV: "Descargar CV",
-            link_CV:"/documents/Hoja de Vida ADSO Sebastian_Moreno.pdf"
+            link_CV: "/documents/Hoja de Vida ADSO Sebastian_Moreno.pdf"
         },
         hero: {
             position1: " Ingeniero Civil &",
@@ -26,9 +26,9 @@ export const translations = {
             title: "Formación",
             description: "Mi formación académica y técnica, con un enfoque práctico y orientado al desarrollo de software.",
             adso: "Tecnólogo en Análisis y Desarrollo de Software (ADSO)",
-            period1: "SENA · 2024 — Actualmente",
-            description1: `Formación enfocada en el desarrollo de aplicaciones web, arquitectura cliente-servidor y bases de datos. Actualmente en etapa lectiva final, con inicio de prácticas en`,
-            description2: `Febrero de 2026`,
+            period1: "SENA · 2024 — 2026",
+            description1: `Formación enfocada en el desarrollo de aplicaciones web bajo arquitectura cliente-servidor y gestión de bases de datos relacionales. Aplicación de buenas prácticas de desarrollo, estructuración de proyectos y pruebas de software.`,
+            description2: `Etapa practica en curso.`,
             adsoList1: "Angular, TypeScript, HTML, CSS y Tailwind",
             adsoList2: "Backend con PHP (PDO) y consumo de APIs",
             adsoList3: "Modelado de bases de datos y lógica de negocio",
@@ -121,7 +121,7 @@ export const translations = {
             projects: "Projects",
             contact: "Contact",
             download_CV: "Download CV",
-            link_CV:"/documents/Sebastian_Moreno CV English.pdf"
+            link_CV: "/documents/Sebastian_Moreno CV English.pdf"
         },
         hero: {
             position1: " Civil Engineer &",
@@ -140,9 +140,9 @@ export const translations = {
             title: "Education",
             description: "My academic and technical training, with a practical focus on software development",
             adso: "Software Analysis and Development Technologist (ADSO)",
-            period1: "SENA · 2024 — Currently",
-            description1: `Training focused on web application development, client-server architecture, and databases. Currently in the final stage of study, with internships beginning in`,
-            description2: `February 2026.`,
+            period1: "SENA · 2024 — 2026",
+            description1: `Training focused on developing web applications under client-server architecture and relational database management. Application of best practices in development, project structuring, and software testing.`,
+            description2: `Practical stage in progress.`,
             adsoList1: "Angular, TypeScript, HTML, CSS and Tailwind",
             adsoList2: "Backend with PHP (PDO) and API consumption",
             adsoList3: "Database modeling and business logic",
