@@ -132,7 +132,7 @@ export const translations = {
         },
         about: {
             title: "About me",
-            p1: `I am a civil engineer and i have an associate degree in Software Analysis and Development at the National Learning Service (SENA). My training allows me to approach problems from a structured perspective, combining technical analysis, logical thinking, and the development of scalable digital solutions.`,
+            p1: `I am a civil engineer and i have an associate degree in Software Analysis and Development at the National Training Service (SENA). My training allows me to approach problems from a structured perspective, combining technical analysis, logical thinking, and the development of scalable digital solutions.`,
             p2: `I have experience in developing web applications using Angular and PHP (PDO), implementing architectures based on REST APIs, managing relational databases, and version control. I have participated in projects where organization, traceability, and software quality are essential.`,
             p3: `I am currently in the practical stage, available for employment in software development projects, both in person and remotely.`
         },
